@@ -1,11 +1,11 @@
 Untuk membuat environment di project ini, jalankan command ini di terminal
 
-conda create --name avpn-project python=3.13
-conda activate avpn-project
+- conda create --name avpn-project python=3.13
+- conda activate avpn-project
 Jalankan command berikut untuk install beberapa library yang mungkin akan digunakan
 
-pip install streamlit pandas pillow
-pip install google-genai
-pip install langchain langchain-community langgraph
-pip install langchain-google-genai langchain-groq
-pip install faiss-cpu PyMuPDF
+-  pip install streamlit pandas pillow
+- pip install google-genai
+- pip install langchain langchain-community langgraph
+- pip install langchain-google-genai langchain-groq
+- pip install faiss-cpu PyMuPDF
