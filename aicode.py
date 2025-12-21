@@ -1,7 +1,7 @@
 """
 Untuk jalankan,
 
-streamlit run chatbot1.py
+streamlit run aicode.py
 """
 
 import os
